@@ -10,9 +10,9 @@
 </table></div>
 
 <script>
-function myf(){
-if document.getElementById('7').style.opacity==0{ document.getElementById('7').style.opacity=0.7;}
-else document.getElementById('7').style.opacity==0;
+function myf() {
+if document.getElementById('7').style.opacity==0 { document.getElementById('7').style.opacity=0.7;}
+else {document.getElementById('7').style.opacity==0;}
 }
 </script>
 <br>
