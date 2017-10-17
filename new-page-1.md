@@ -5,7 +5,7 @@
 
 ну что - так начиналась Технологическая библиотека
 
-<div id='7' style="position:fixed;right:320px;opacity:0.5;"> <table><tr><td>123</td><td>3453423</td></tr>
+<div id='7' style="position:fixed;right:320px;opacity:0.5;"> <table><tr><td>1233453423</td></tr>
 <tr><td style="width:120px;"><img src=/uploads/socialist-republics.png></img></td></tr>
 </table></div>
 
