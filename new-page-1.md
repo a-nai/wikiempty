@@ -5,7 +5,9 @@
 
 ну что - так начиналась Технологическая библиотека
 
-<div id='7' style="position:fixed;right:12px;opacity:0.7;" onclick="myf()" > <table><tr><td>1233453423</td></tr>
+<div id='7' style="position:fixed;right:12px;opacity:0.7;" onclick="if document.getElementById('7').style.opacity==0 { document.getElementById('7').style.opacity=0.7;}
+if document.getElementById('7').style.opacity==0.7 { document.getElementById('7').style.opacity=0;}
+return 1;" > <table><tr><td>1233453423</td></tr>
 <tr><td style="width:220px;"><img src=/uploads/socialist-republics.png></img></td></tr>
 </table></div>
 
