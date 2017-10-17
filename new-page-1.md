@@ -6,7 +6,7 @@
 ну что - так начиналась Технологическая библиотека
 
 <div id='7' style="position:fixed;right:320px;opacity:0.5;"> <table><tr><td>123</td><td>3453423</td></tr>
-<tr><td style="width:120px;">![Socialist Republics](/uploads/socialist-republics.png "Socialist Republics")</td></tr>
+<tr><td style="width:120px;"><img href=/uploads/socialist-republics.png></img></td></tr>
 </table></div>
 
 <br>
