@@ -12,7 +12,7 @@
 <script>
 function myf() {
 if (document.getElementById('7').style.opacity==0) { document.getElementById('7').style.opacity=0.7;}
-if (document.getElementById('7').style.opacity==0.7) { document.getElementById('7').style.opacity=0;}
+else { document.getElementById('7').style.opacity=0;}
 return 1;
 }
 </script>
