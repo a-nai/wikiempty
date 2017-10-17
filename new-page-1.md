@@ -4,7 +4,6 @@
 # Header
 
 ну что - так начиналась Технологическая библиотека
-[TOC]
 
 <div id='7' style="position:fixed;right:320px;"> 899 </div>
 
