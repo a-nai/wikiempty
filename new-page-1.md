@@ -5,14 +5,14 @@
 
 ну что - так начиналась Технологическая библиотека
 
-<div id='7' style="position:fixed;right:12px;opacity:0.5;" onclick=myf() > <table><tr><td>1233453423</td></tr>
+<div id='7' style="position:fixed;right:12px;opacity:0.7;" onclick=myf() > <table><tr><td>1233453423</td></tr>
 <tr><td style="width:220px;"><img src=/uploads/socialist-republics.png></img></td></tr>
 </table></div>
 
 <script>
 function myf() {
 if document.getElementById('7').style.opacity==0 { document.getElementById('7').style.opacity=0.7;}
-else {document.getElementById('7').style.opacity==0;}
+if document.getElementById('7').style.opacity==0.7 { document.getElementById('7').style.opacity=0;}
 }
 </script>
 <br>
