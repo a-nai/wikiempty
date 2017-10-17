@@ -5,7 +5,7 @@
 
 ну что - так начиналась Технологическая библиотека
 
-<div id='7' style="position:fixed;right:320px;"> <table><tr>123</tr><tr>3453423</tr></table></div>
+<div id='7' style="position:fixed;right:320px;"> <table><td>123</td><td>3453423</td></table></div>
 
 <br>
 <br>
