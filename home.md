@@ -5,7 +5,7 @@ da ya ya
 <!-- SUBTITLE: A quick summary of Home -->
 
 # Header
-ya yaiiii
+ya yaii
 
 #Header56
 
