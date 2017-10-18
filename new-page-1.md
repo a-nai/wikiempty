@@ -20,7 +20,7 @@
 
 ## yyy888
 
-![Kdddsxdnfqw](/uploads/kdddsxdnfqw.jpg=250x "Kdddsxdnfqw" )
+![Kdddsxdnfqw](/uploads/kdddsxdnfqw.jpg =250x "Kdddsxdnfqw" )
 
 
 
