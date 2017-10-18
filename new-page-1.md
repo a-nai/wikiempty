@@ -20,7 +20,7 @@
 
 ## yyy888
 
-![Kdddsxdnfqw](/uploads/kdddsxdnfqw.jpg =250x "Kdddsxdnfqw" )
+![drawing](/uploads/kdddsxdnfqw.jpg "Kdddsxdnfqw" )
 
 
 
@@ -38,3 +38,5 @@ return 1;
 </script>
 <br>
 <br>
+
+<style>img[alt=drawing] { width: 200px; }</style>
