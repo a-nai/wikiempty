@@ -20,8 +20,6 @@
 
 ## yyy888
 
-~~////![drawing](/uploads/kdddsxdnfqw.jpg "drawing" )
-///![8 Yygajwphm](/uploads/8-yygajwphm.jpg "8 Yygajwphm")~~
 
 
 
