@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Типо подтитл -->
 
 # Header
-<div id ='8' style="left:1%;width:850px;position:relative;">
+<div id ='8' style="left:1%;width:950px;position:relative;">
 
 
 ну что - так начиналась Технологическая библиотека
