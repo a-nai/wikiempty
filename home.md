@@ -8,7 +8,7 @@
 <!-- SUBTITLE: A quick summary of Home -->
 
 
-[ this is sparta](http://facebook.com/aeremchuk)
+What do you think about this link [ this is sparta](http://facebook.com/aeremchuk)
 da ya ya
 # Header
 ya yaii
