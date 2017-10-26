@@ -17,5 +17,3 @@ ya yaii
 
 what if i am formidable
 ###8999
-
-<div style="margin:auto" ><button onclick=buy() class="myButton" >2$ buy this article</button></div>
