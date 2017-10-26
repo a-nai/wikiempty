@@ -8,7 +8,7 @@
 <!-- SUBTITLE: A quick summary of Home -->
 
 
-[ this is sparta](http://facebook/aneremchuk)
+[ this is sparta](http://facebook.com/aneremchuk)
 da ya ya
 # Header
 ya yaii
