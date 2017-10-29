@@ -9,7 +9,7 @@
 
 
 What do you think about this link [ this is sparta](http://facebook.com/aeremchuk)
-da ya ya
+da ya
 # Header
 ya yaii
 
