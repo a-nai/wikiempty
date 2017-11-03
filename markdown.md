@@ -2,8 +2,6 @@
 <!-- SUBTITLE: A quick summary of Markdown -->
 # Markdown: Syntax
 
-[TOC]
-
 ### Philosophy
 
 Markdown is intended to be as easy-to-read and easy-to-write as is feasible.
